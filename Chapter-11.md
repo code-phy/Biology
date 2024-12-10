@@ -24,7 +24,7 @@ membrane.In addition, as a cell grows, it places increasing
     - Chromosomes
         - In prokaryotes, DNA is packed in a single circular chromosomes
             - Prokaryotes go throughbinary fission
-            - the DNA   multiplies and the celll membrane indents itself forming 2 new cells
+            - the DNA multiplies and the celll membrane indents itself forming 2 new cells
         - In eukaryotes DNA is packed into multiple chromosomes
             - Eukaryotic cell Division is more complex having specific stages
                 - **Interphase**: Cell prepares for division, DNA is replicated in the S phase.
@@ -46,12 +46,12 @@ material.
 
 
 ## Regulating the Cell Cycle
-    - At the site of an injury are externallly stimulated to dving rapidly, and as the injury heals it gradually 
+    - At the site of an injury are externallly stimulated to divide rapidly, and as the injury heals it gradually 
 slows down to the original pace.
 
     - Regulatory Proteins
-        - As scientist were experimenting with proteins that speed up cell division the found the protein Cyclin
-            - Cyclin  is one of the regulatory proteins
+        - As scientist were experimenting with proteins that speed up cell division they found the protein Cyclin
+            - Cyclin is one of the regulatory proteins
             - There are 2 types of regulators
                 - Internal regulators
                     - responds to events inside the cell
